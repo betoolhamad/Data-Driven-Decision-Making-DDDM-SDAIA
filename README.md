@@ -1,5 +1,5 @@
 # Data-Driven-Decision-Making-DDDM-SDAIA
-This project is a project number 1 which was applied in SDAIA AI Summer Champions provided by cooperated SDAIA with the Coursera platform in Data-Driven Decision Making (DDDM) path. <br></br>
+This project is a project number 1 which was applied in SDAIA AI Summer Champions provided by cooperated SDAIA with the Coursera platform in Data-Driven Decision Making (DDDM) path. Its Data-Driven Process Improvement course.<br></br>
 
 **The objective in this course is to learn :**
 
