@@ -24,4 +24,4 @@ This project is a project number 1 which was applied in SDAIA AI Summer Champion
 
 The project of this course was about Data-Driven Process Improvement and its was consist of some instructions given to us
 <br><br>
-**#Note: My project is attached above with pdf extension**
+**#Note: My project is attached above with pdf extension with its certificate**
